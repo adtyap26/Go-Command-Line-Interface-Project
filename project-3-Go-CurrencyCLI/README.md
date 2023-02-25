@@ -1,25 +1,28 @@
 # Currency Converter CLI
 
-This is a simple currency converter prpgram written in Go.
+This is a simple currency converter program written in Go.
 
 ## Usage
 
-clone this repository. set up a `config.json` file in the root project directory.
+Set up a `config.json` file in the root project directory.
 
-```{
+```
+{
     "APIKey": "your-api-key"
-  }
+}
 
 ```
 
-Run the prpgram by executing:
+Run the program by executing:
 
-```$ go run main.go
+```
+$ go run main.go
 
 ```
 
 or
 
-```$ go build main.go
+```
+$ go build main.go
 
 ```

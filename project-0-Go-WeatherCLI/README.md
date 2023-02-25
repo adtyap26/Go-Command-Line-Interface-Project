@@ -4,16 +4,6 @@ This is a command-line interface (CLI) weather application written in Go. The ap
 
 ## How to use
 
-First, make sure you have Go installed on your machine. You can check this by running go version in your terminal. If Go is not installed, you can download it from the official website here.
-
-Next, clone this repository to your local machine by running: git clone https://github.com/adtyap26/GO-weatherCLi.git in your terminal.
-
-Change the directory to the project folder: 
-
-```
-cd CLIAPPS
-```
-
 Run the command 
 
 ```

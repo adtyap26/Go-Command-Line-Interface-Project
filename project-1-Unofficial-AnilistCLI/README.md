@@ -14,18 +14,14 @@ https://user-images.githubusercontent.com/101618848/212522094-3727bf6a-eaed-40f7
 
 1. Install Go by running the installer and following the prompts.
 2. Open the Command Prompt and navigate to the directory where you want to clone the repository
-3. Run the following command to clone the repository:
-
-git clone https://github.com/adtyap26/Unofficial-AnilistCLI
-
-4. navigate to the project directory
-5. Build the application by running the following command:
+3. navigate to the project directory
+4. Build the application by running the following command:
 
 ```
 go build
 ```
 
-6. Run the application by running the following command:
+5. Run the application by running the following command:
 
 ```
 Unofficial-AniList-CLI.exe
@@ -35,18 +31,14 @@ Unofficial-AniList-CLI.exe
 
 1. Install Go by following the instructions on the official website [https://go.dev/doc/install](https://go.dev/doc/install)
 2. Open the Terminal and navigate to the directory where you want to clone the repository
-3. Run the following command to clone the repository:
-
-git clone https://github.com/adtyap26/Unofficial-AnilistCLI
-
-4. navigate to the project directory
-5. Build the application by running the following command:
+3. navigate to the project directory
+4. Build the application by running the following command:
 
 ```
 go build
 ```
 
-6. Run the application by running the following command:
+5. Run the application by running the following command:
 
 ```
 ./Unofficial-AniListCLI

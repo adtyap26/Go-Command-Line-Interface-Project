@@ -3,7 +3,7 @@
     <img src="https://github.com/adtyap26/Go-Command-Line-Interface-Project/blob/main/assets/Louise-Kingston.png" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Go-Command-Line-Interface-Project</h3>
+  <h3 align="center">Logo</h3>
 
   <p align="center">
     Short description
@@ -30,6 +30,12 @@ You must have Go installed on your system to be able to build and run this appli
 
 
 - Clone this repository and simply choose what kind of programs you want to run in each directory.
+- The following directories are listed:
+  - [project-0-Go-WeatherCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-0-Go-WeatherCLI)
+  - [project-1-Unofficial-AnilistCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-1-Unofficial-AnilistCLI)
+  - [project-2-Letter-archiveCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-2-Letter-archiveCLI)
+  - [project-3-Go-CurrencyCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-3-Go-CurrencyCLI)
+- There are separate lists of instructions and information inside these directories that you can follow to run the apps. 
 
 ## What's included
 
