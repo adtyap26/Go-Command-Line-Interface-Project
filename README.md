@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/adtyap26/Go-Command-Line-Interface-Project">
-    <img src="/Go-Command-Line-Interface-Project/assets/Louise-Kingston.png" alt="Logo" width=72 height=72>
+    <img src="https://github.com/adtyap26/Go-Command-Line-Interface-Project/blob/main/assets/Louise-Kingston.png" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Logo</h3>
