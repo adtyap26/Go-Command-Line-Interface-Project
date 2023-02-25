@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/adtyap26/Go-Command-Line-Interface-Project">
-    <img src="../Go-Command-Line-Interface-Project/assets/Louise-Kingston.png" alt="Logo" width=72 height=72>
+    <img src="/Go-Command-Line-Interface-Project/assets/Louise-Kingston.png" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Logo</h3>
@@ -99,6 +99,6 @@ Please feel free to offer suggestions and criticism. If you want to contribute, 
 ## Copyright and license
 
 Code released under the [GNU Public License 3.0](https://github.com/adtyap26/Go-Command-Line-Interface-Project/blob/main/LICENSE).
-logo from this repository is credited to [Louise Kingston] (https://www.pngitem.com/userpic/7976/).
+logo from this repository is credited to [Louise Kingston](https://www.pngitem.com/userpic/7976/).
 
 Enjoy :metal:
