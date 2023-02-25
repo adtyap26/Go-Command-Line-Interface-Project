@@ -3,7 +3,7 @@
     <img src="https://github.com/adtyap26/Go-Command-Line-Interface-Project/blob/main/assets/Louise-Kingston.png" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Go-CLI-Project</h3>
 
   <p align="center">
     Short description
