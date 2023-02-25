@@ -6,7 +6,7 @@
   <h3 align="center">Go-CLI-Project</h3>
 
   <p align="center">
-    Short description
+    I love command-line interface programs because they are fast, efficient, and flexible.
     <br>
     <a href="https://github.com/adtyap26/Go-Command-Line-Interface-Project/issues/new">Report bug</a>
     ·
