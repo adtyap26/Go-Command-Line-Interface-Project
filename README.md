@@ -44,7 +44,6 @@ The list of programs that I have created is basically for my own personal use. I
 ```11 directories, 31 files
 
 ├── assets
-│   ├── cgapp_logo.png
 │   └── Louise-Kingston.png
 ├── LICENSE
 ├── project-0-Go-WeatherCLI
@@ -82,7 +81,7 @@ The list of programs that I have created is basically for my own personal use. I
 │   ├── go.sum
 │   ├── main.go
 │   └── README.md
-├── README.md
+└── README.md
 
 ```
 
