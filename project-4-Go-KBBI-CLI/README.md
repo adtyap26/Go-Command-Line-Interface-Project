@@ -1,4 +1,4 @@
-# GO-weatherCLI
+# Go-KBBI-CLI
 
 Merupakan program berbasis perintah text di terminal yang dapat menampilkan definisi kata berdasarkan KBBI daring. 
 
@@ -22,7 +22,7 @@ KBBI-CLI cari [kata]
 
 ```
 
-## Deret library yang digunakan 
+## Deret pustaka yang digunakan 
 
 - [gocolly](https://github.com/gocolly/colly)
 - [simpletable](https://github.com/alexeyco/simpletable)
