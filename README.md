@@ -35,14 +35,17 @@ You must have Go installed on your system to be able to build and run this appli
   - [project-1-Unofficial-AnilistCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-1-Unofficial-AnilistCLI)
   - [project-2-Letter-archiveCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-2-Letter-archiveCLI)
   - [project-3-Go-CurrencyCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-3-Go-CurrencyCLI)
+  - [project-4-Go-KBBI-CLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-4-Go-KBBI-CLI)
+  
 - There are separate lists of instructions and information inside these directories that you can follow to run the apps. 
 
 ## What's included
 
 The list of programs that I have created is basically for my own personal use. I created them to meet my daily needs. The list would continue.
  
-```11 directories, 31 files
+```13 directories, 36 files
 
+.
 ├── assets
 │   └── Louise-Kingston.png
 ├── LICENSE
@@ -74,14 +77,24 @@ The list of programs that I have created is basically for my own personal use. I
 ├── project-3-Go-CurrencyCLI
 │   ├── config
 │   │   └── config.go
-│   ├── config.json
 │   ├── currency
 │   │   └── currency.go
 │   ├── go.mod
 │   ├── go.sum
 │   ├── main.go
 │   └── README.md
-└── README.md
+├── project-4-Go-KBBI-CLI
+│   ├── cmd
+│   │   ├── cari.go
+│   │   └── root.go
+│   ├── go.mod
+│   ├── go.sum
+│   ├── LICENSE
+│   ├── main.go
+│   └── README.md
+├── README.md
+└── test.md
+
 
 ```
 
