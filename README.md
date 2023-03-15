@@ -36,6 +36,7 @@ You must have Go installed on your system to be able to build and run this appli
   - [project-2-Letter-archiveCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-2-Letter-archiveCLI)
   - [project-3-Go-CurrencyCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-3-Go-CurrencyCLI)
   - [project-4-Go-KBBI-CLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-4-Go-KBBI-CLI)
+  - [project-5-Go-premierleagueCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-5-Go-premierleagueCLI)
   
 - There are separate lists of instructions and information inside these directories that you can follow to run the apps. 
 
@@ -43,8 +44,9 @@ You must have Go installed on your system to be able to build and run this appli
 
 The list of programs that I have created is basically for my own personal use. I created them to meet my daily needs. The list would continue.
  
-```13 directories, 36 files
+```  
 
+15 directories, 46 files
 .
 ├── assets
 │   └── Louise-Kingston.png
@@ -92,9 +94,20 @@ The list of programs that I have created is basically for my own personal use. I
 │   ├── LICENSE
 │   ├── main.go
 │   └── README.md
+├── project-5-Go-premierleagueCLI
+│   ├── cmd
+│   │   ├── find.go
+│   │   ├── fixture.go
+│   │   ├── player.go
+│   │   ├── root.go
+│   │   └── table.go
+│   ├── go.mod
+│   ├── go.sum
+│   ├── LICENSE
+│   ├── main.go
+│   └── README.md
 ├── README.md
 └── test.md
-
 
 ```
 
