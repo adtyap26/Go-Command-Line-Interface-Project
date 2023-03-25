@@ -37,6 +37,7 @@ You must have Go installed on your system to be able to build and run this appli
   - [project-3-Go-CurrencyCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-3-Go-CurrencyCLI)
   - [project-4-Go-KBBI-CLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-4-Go-KBBI-CLI)
   - [project-5-Go-premierleagueCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-5-Go-premierleagueCLI)
+  - [project-6-Go-scraping-imsakiyahCLI](https://github.com/adtyap26/Go-Command-Line-Interface-Project/tree/main/project-6-Go-scraping-imsakiyahCLI)
   
 - There are separate lists of instructions and information inside these directories that you can follow to run the apps. 
 
@@ -45,8 +46,7 @@ You must have Go installed on your system to be able to build and run this appli
 The list of programs that I have created is basically for my own personal use. I created them to meet my daily needs. The list would continue.
  
 ```  
-
-15 directories, 46 files
+17 directories, 52 files
 .
 ├── assets
 │   └── Louise-Kingston.png
@@ -103,11 +103,18 @@ The list of programs that I have created is basically for my own personal use. I
 │   │   └── table.go
 │   ├── go.mod
 │   ├── go.sum
+│   ├── main.go
+│   └── README.md
+├── project-6-Go-scraping-imsakiyahCLI
+│   ├── cmd
+│   │   ├── cari.go
+│   │   └── root.go
+│   ├── go.mod
+│   ├── go.sum
 │   ├── LICENSE
 │   ├── main.go
 │   └── README.md
 └── README.md
-
 
 ```
 
