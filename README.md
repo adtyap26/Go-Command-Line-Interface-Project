@@ -46,15 +46,14 @@ You must have Go installed on your system to be able to build and run this appli
 The list of programs that I have created is basically for my own personal use. I created them to meet my daily needs. The list would continue.
  
 ```  
-17 directories, 52 files
-.
+17 directories, 48 files
+
 ├── assets
 │   └── Louise-Kingston.png
 ├── LICENSE
 ├── project-0-Go-WeatherCLI
 │   ├── data
-│   │   ├── data.go
-│   │   └── go.mod
+│   │   └── data.go
 │   ├── go.mod
 │   ├── go.sum
 │   ├── main.go
@@ -65,8 +64,6 @@ The list of programs that I have created is basically for my own personal use. I
 │   ├── main.go
 │   ├── README.md
 │   └── search
-│       ├── go.mod
-│       ├── go.sum
 │       └── search.go
 ├── project-2-Letter-archiveCLI
 │   ├── go.mod
@@ -115,7 +112,7 @@ The list of programs that I have created is basically for my own personal use. I
 │   ├── main.go
 │   └── README.md
 └── README.md
-
+ 
 ```
 
 ## Bugs and feature requests
